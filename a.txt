@@ -8,4 +8,4 @@ arquivo
 enviando
 funcinalidade
 X
-enviando a funcionalidade b 
+enviando a funcionalidade B
